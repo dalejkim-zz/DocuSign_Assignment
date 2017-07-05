@@ -1,5 +1,5 @@
 /* Dale Kim
- * DocuSign Interview Question
+ * DocuSign Interview Assignment
  * 7/5/2017
  */
 
@@ -13,8 +13,7 @@ import java.util.regex.Pattern;
 public class HouseDriver {
 
 	public static void main(String[] args) {
-		//I thought of several ways in doing this program such as doing it using a HashSet. However I pursued doing it this way instead.
-		//If you wish to see a HashSet version, I can definitely mock one up for you.
+		//Another way could be done using a HashSet.
 		//HashSet hs = new HashSet();
 		
 		@SuppressWarnings("resource")
