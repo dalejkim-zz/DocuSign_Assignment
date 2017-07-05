@@ -1,0 +1,15 @@
+Input the Temperature Type and the comma separated list of numeric commands:
+HOT 8, 6, 4, 2, 1, 7
+Removing PJs,shorts,t-shirt,sun visor,sandals,leaving house
+
+Input the Temperature Type and the comma separated list of numeric commands:
+cold 8,6,3,4,2,5,1,7
+Removing PJs,pants,socks,shirt,hat,jacket,boots,leaving house
+
+Input the Temperature Type and the comma separated list of numeric commands:
+hot 8,6,6,3,4,2
+Removing PJs,shorts,fail
+
+Input the Temperature Type and the comma separated list of numeric commands:
+ColD 3, 4 ,2 , 1 
+fail
