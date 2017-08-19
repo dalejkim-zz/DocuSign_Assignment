@@ -1,3 +1,9 @@
+/* 
+ * Dale Kim
+ * DocuSign Interview Assignment
+ * 7/5/2017
+ */
+
 package myHouse;
 
 public class ColdTemperature implements HumanCommands{

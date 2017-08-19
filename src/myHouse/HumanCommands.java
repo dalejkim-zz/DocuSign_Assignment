@@ -1,3 +1,9 @@
+/* 
+ * Dale Kim
+ * DocuSign Interview Assignment
+ * 7/5/2017
+ */
+
 package myHouse;
 
 //one day there may be a rainy day or a windy day or a day where its hailing and you don't want to leave the house
